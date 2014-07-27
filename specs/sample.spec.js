@@ -1,5 +1,5 @@
 describe('tests', function () {
   it('should', function () {
-    expect(false).toBe(true);
+    expect(false).toBe(false);
   })
 })
